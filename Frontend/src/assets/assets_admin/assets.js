@@ -1,4 +1,4 @@
-import add_icon from './add_icon.svg'
+
 import admin_logo from './admin_logo.svg'
 import appointment_icon from './appointment_icon.svg'
 import cancel_icon from './cancel_icon.svg'
@@ -11,9 +11,9 @@ import tick_icon from './tick_icon.svg'
 import appointments_icon from './appointments_icon.svg'
 import earning_icon from './earning_icon.svg'
 import patients_icon from './patients_icon.svg'
+import logo from './logo.png'
 
 export const assets = {
-    add_icon,
     admin_logo,
     appointment_icon,
     cancel_icon,
@@ -24,6 +24,7 @@ export const assets = {
     people_icon,
     list_icon,
     tick_icon,
+    logo,
     appointments_icon,
     earning_icon
 }
